@@ -34,7 +34,7 @@ public class MainActivity extends Activity {
         mysettings.setBuiltInZoomControls(true);
         mysettings.setDisplayZoomControls(false);
         myWebView.setWebViewClient(new MyWebviewClient(mprogress));
-        myWebView.loadUrl("http://watch-dr.paypalcorp.com");
+        myWebView.loadUrl("Plcae Your Url Here");
         myWebView.canGoBack();
     }
 
